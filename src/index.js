@@ -6,7 +6,7 @@ import SearchBar from './components/search_bar'; //cause its file i created, nee
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail'
 // const API_KEY = 'AIzaSyCNXQvOiLvN0aeEua6AtErwUyOT0sqFV70';  //this allows make request to youtube
-const API_KEY = <script async defer src="https://maps.googleapis.com/maps/api/js?key=YAIzaSyDXncPFHH10ENKsucXKfB6j-ZomMMbt9wg&callback=initMap"
+const API_KEY = <script async defer src="https://maps.googleapis.com/maps/api/js?key=tobedetermined&callback=initMap"
 type="text/javascript"></script>
 //index is most parent component we have. all children of App so should fetch data.
 //dependencies and install it into the variale.
